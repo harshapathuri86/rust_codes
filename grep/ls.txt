@@ -1,0 +1,423 @@
+.:
+total 8.0K
+drwxr-xr-x 1 harsha users  26 Feb 24 21:37 src
+drwxr-xr-x 1 harsha users  80 Feb 24 21:40 target
+-rw-r--r-- 1 harsha users 148 Feb 24 20:42 Cargo.lock
+-rw-r--r-- 1 harsha users 173 Feb 24 20:36 Cargo.toml
+-rw-r--r-- 1 harsha users   0 Feb 24 21:41 ls.txt
+-rw-r--r-- 1 harsha users   0 Feb 24 21:41 test
+
+./src:
+total 8.0K
+-rw-r--r-- 1 harsha users 2.0K Feb 24 21:36 lib.rs
+-rw-r--r-- 1 harsha users  394 Feb 24 21:37 main.rs
+
+./target:
+total 4.0K
+drwxr-xr-x 1 harsha users 164 Feb 24 21:40 debug
+drwxr-xr-x 1 harsha users 164 Feb 24 21:40 release
+-rw-r--r-- 1 harsha users 177 Feb 24 20:42 CACHEDIR.TAG
+
+./target/debug:
+total 5.3M
+drwxr-xr-x 1 harsha users    0 Feb 24 20:42 build
+drwxr-xr-x 1 harsha users 1.2K Feb 24 21:40 deps
+drwxr-xr-x 1 harsha users    0 Feb 24 20:42 examples
+drwxr-xr-x 1 harsha users  394 Feb 24 21:25 incremental
+-rwxr-xr-x 2 harsha users 4.5M Feb 24 21:40 grep
+-rw-r--r-- 1 harsha users  159 Feb 24 21:22 grep.d
+-rw-r--r-- 1 harsha users  116 Feb 24 21:22 libgrep.d
+-rw-r--r-- 2 harsha users 824K Feb 24 21:36 libgrep.rlib
+
+./target/debug/build:
+total 0
+
+./target/debug/deps:
+total 23M
+-rwxr-xr-x 2 harsha users 4.5M Feb 24 21:40 grep-03f7fd9c442869f7
+-rw-r--r-- 1 harsha users  201 Feb 24 21:40 grep-03f7fd9c442869f7.d
+-rw-r--r-- 1 harsha users  304 Feb 24 21:36 grep-0fefb12eb1aabc06.d
+-rwxr-xr-x 1 harsha users 4.3M Feb 24 21:18 grep-711916952c70b520
+-rw-r--r-- 1 harsha users  201 Feb 24 21:18 grep-711916952c70b520.d
+-rw-r--r-- 1 harsha users  207 Feb 24 21:18 grep-7c4907ee28e3c947.d
+-rw-r--r-- 1 harsha users  207 Feb 24 21:18 grep-ae2e7f0306e82a77.d
+-rw-r--r-- 1 harsha users  207 Feb 24 21:37 grep-d77631b34edfa4f6.d
+-rw-r--r-- 1 harsha users  204 Feb 24 21:36 grep-d7fcfc2a9914b5cc.d
+-rwxr-xr-x 1 harsha users 6.4M Feb 24 21:36 grep-e09cd0e4edc8a607
+-rw-r--r-- 1 harsha users  201 Feb 24 21:36 grep-e09cd0e4edc8a607.d
+-rw-r--r-- 1 harsha users  207 Feb 24 21:37 grep-ea7c11c1ba6a3119.d
+-rw-r--r-- 1 harsha users  204 Feb 24 21:36 grep-f2c5bb19512f96ea.d
+-rwxr-xr-x 1 harsha users 6.8M Feb 24 21:36 grep-f539ae9f858421d4
+-rw-r--r-- 1 harsha users  198 Feb 24 21:36 grep-f539ae9f858421d4.d
+-rw-r--r-- 2 harsha users 824K Feb 24 21:36 libgrep-0fefb12eb1aabc06.rlib
+-rw-r--r-- 1 harsha users  11K Feb 24 21:36 libgrep-0fefb12eb1aabc06.rmeta
+-rw-r--r-- 1 harsha users    0 Feb 24 21:18 libgrep-7c4907ee28e3c947.rmeta
+-rw-r--r-- 1 harsha users    0 Feb 24 21:18 libgrep-ae2e7f0306e82a77.rmeta
+-rw-r--r-- 1 harsha users    0 Feb 24 21:37 libgrep-d77631b34edfa4f6.rmeta
+-rw-r--r-- 1 harsha users 6.1K Feb 24 21:36 libgrep-d7fcfc2a9914b5cc.rmeta
+-rw-r--r-- 1 harsha users    0 Feb 24 21:37 libgrep-ea7c11c1ba6a3119.rmeta
+-rw-r--r-- 1 harsha users    0 Feb 24 21:36 libgrep-f2c5bb19512f96ea.rmeta
+
+./target/debug/examples:
+total 0
+
+./target/debug/incremental:
+total 0
+drwxr-xr-x 1 harsha users 112 Feb 24 21:37 grep-16hoe4487bmkl
+drwxr-xr-x 1 harsha users 118 Feb 24 21:18 grep-1idrslrmxxmv8
+drwxr-xr-x 1 harsha users 218 Feb 24 21:36 grep-1ph6e1kia8lrp
+drwxr-xr-x 1 harsha users 114 Feb 24 21:36 grep-1sn9oq68c0vku
+drwxr-xr-x 1 harsha users 118 Feb 24 21:18 grep-20a8rlorknket
+drwxr-xr-x 1 harsha users 118 Feb 24 21:18 grep-21cbcw2sdw3r6
+drwxr-xr-x 1 harsha users 114 Feb 24 21:37 grep-2ieixnu2epj1d
+drwxr-xr-x 1 harsha users 118 Feb 24 21:36 grep-2itevzhqo4210
+drwxr-xr-x 1 harsha users 220 Feb 24 21:36 grep-2qtmheesdot8f
+drwxr-xr-x 1 harsha users 118 Feb 24 21:36 grep-3kzwfotsry6x5
+drwxr-xr-x 1 harsha users 114 Feb 24 21:40 grep-x2tdx1trsne9
+
+./target/debug/incremental/grep-16hoe4487bmkl:
+total 0
+drwxr-xr-x 1 harsha users 90 Feb 24 21:37 s-gijc8gior3-yz35nr-tyft3z16tjy0
+-rw------- 1 harsha users  0 Feb 24 21:37 s-gijc8gior3-yz35nr.lock
+
+./target/debug/incremental/grep-16hoe4487bmkl/s-gijc8gior3-yz35nr-tyft3z16tjy0:
+total 112K
+-rw-r--r-- 1 harsha users 89K Feb 24 21:37 dep-graph.bin
+-rw-r--r-- 1 harsha users 14K Feb 24 21:37 query-cache.bin
+-rw-r--r-- 1 harsha users  37 Feb 24 21:37 work-products.bin
+
+./target/debug/incremental/grep-1idrslrmxxmv8:
+total 0
+drwxr-xr-x 1 harsha users 1.5K Feb 24 21:18 s-gijbpfezqn-19xdjok-1r2vev0m3e2ld
+-rw------- 1 harsha users    0 Feb 24 21:18 s-gijbpfezqn-19xdjok.lock
+
+./target/debug/incremental/grep-1idrslrmxxmv8/s-gijbpfezqn-19xdjok-1r2vev0m3e2ld:
+total 1.9M
+-rw-r--r-- 1 harsha users 7.2K Feb 24 20:42 102093cy4eyawnss.o
+-rw-r--r-- 1 harsha users 6.2K Feb 24 21:05 11hjsduhlz4kue9v.o
+-rw-r--r-- 1 harsha users 8.5K Feb 24 20:42 169rwzz8vyv1shbe.o
+-rw-r--r-- 1 harsha users  71K Feb 24 20:42 17iwtkgsifskebjm.o
+-rw-r--r-- 1 harsha users 8.0K Feb 24 20:42 17knup1p4sw9ilw5.o
+-rw-r--r-- 1 harsha users  17K Feb 24 20:42 19qd8m4ljl9on3kb.o
+-rw-r--r-- 1 harsha users  11K Feb 24 21:05 1exf2hu5yck0suxe.o
+-rw-r--r-- 1 harsha users 9.9K Feb 24 20:42 1htddrucg6jeu294.o
+-rw-r--r-- 1 harsha users  11K Feb 24 20:42 1pbkg77hvx70mbzp.o
+-rw-r--r-- 1 harsha users  81K Feb 24 21:18 1y27eztdum0srjzm.o
+-rw-r--r-- 1 harsha users  26K Feb 24 21:18 226t5dr24rw5ljij.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:00 2gj7rydcix7x01y3.o
+-rw-r--r-- 1 harsha users  33K Feb 24 21:05 2ikkgm5j97vcrgut.o
+-rw-r--r-- 1 harsha users 4.4K Feb 24 20:42 2o2s11k783wnrupj.o
+-rw-r--r-- 1 harsha users  13K Feb 24 20:50 2p6k16ieiix8dcck.o
+-rw-r--r-- 1 harsha users  18K Feb 24 21:18 2pykch8qlp0v5hya.o
+-rw-r--r-- 1 harsha users 4.9K Feb 24 20:42 2s83a8dxs5795h30.o
+-rw-r--r-- 1 harsha users 4.2K Feb 24 20:42 2sjypys3c8tp7vh7.o
+-rw-r--r-- 1 harsha users  26K Feb 24 20:50 32i8wkf9kiehs331.o
+-rw-r--r-- 1 harsha users 4.8K Feb 24 20:42 3938prkvcgpw3x9r.o
+-rw-r--r-- 1 harsha users 8.9K Feb 24 20:42 3l8w573ptya30bah.o
+-rw-r--r-- 1 harsha users 5.8K Feb 24 21:00 3o05bzlm38gctlgk.o
+-rw-r--r-- 1 harsha users  16K Feb 24 21:18 3q3wiy2qrs33xeyc.o
+-rw-r--r-- 1 harsha users 6.9K Feb 24 20:42 3qs37gf4vypbmb8x.o
+-rw-r--r-- 1 harsha users  11K Feb 24 20:42 3r9a4d6ax7la46z.o
+-rw-r--r-- 1 harsha users 9.1K Feb 24 21:05 3t32kr7wnl3bqgmh.o
+-rw-r--r-- 1 harsha users  35K Feb 24 21:05 43o1eu34t255b7w7.o
+-rw-r--r-- 1 harsha users 7.0K Feb 24 20:42 47w4no931x6ji4ug.o
+-rw-r--r-- 1 harsha users  14K Feb 24 21:00 4cm26iycynq49oe2.o
+-rw-r--r-- 1 harsha users 9.1K Feb 24 21:05 4p2oibzf2rd2pyxs.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 20:42 4pg5z3rcjqkw5d24.o
+-rw-r--r-- 1 harsha users  40K Feb 24 21:00 4pi4frbgnx75foom.o
+-rw-r--r-- 1 harsha users 6.7K Feb 24 20:42 4sarf01ri3c3upqp.o
+-rw-r--r-- 1 harsha users 9.5K Feb 24 20:42 4wiypofx7468gm7u.o
+-rw-r--r-- 1 harsha users 3.0K Feb 24 20:42 4wlo9el8ghjyxtwl.o
+-rw-r--r-- 1 harsha users  12K Feb 24 20:42 53bm3jlfdi5515a.o
+-rw-r--r-- 1 harsha users 9.4K Feb 24 20:44 5b39fn69y9bpkgv4.o
+-rw-r--r-- 1 harsha users 885K Feb 24 21:18 dep-graph.bin
+-rw-r--r-- 1 harsha users 4.3K Feb 24 20:42 hy2zwn2el0s9kxj.o
+-rw-r--r-- 1 harsha users 339K Feb 24 21:18 query-cache.bin
+-rw-r--r-- 1 harsha users  47K Feb 24 21:05 tdp8iwrdwmkcink.o
+-rw-r--r-- 1 harsha users 2.3K Feb 24 21:18 work-products.bin
+
+./target/debug/incremental/grep-1ph6e1kia8lrp:
+total 0
+drwxr-xr-x 1 harsha users 126 Feb 24 21:35 s-gijc75gyiy-1v0xug8-working
+drwxr-xr-x 1 harsha users  90 Feb 24 21:36 s-gijc79vr27-lct64c-atuj17xwdjfv
+-rw------- 1 harsha users   0 Feb 24 21:35 s-gijc75gyiy-1v0xug8.lock
+-rw------- 1 harsha users   0 Feb 24 21:36 s-gijc79vr27-lct64c.lock
+
+./target/debug/incremental/grep-1ph6e1kia8lrp/s-gijc75gyiy-1v0xug8-working:
+total 644K
+-rw-r--r-- 1 harsha users 361K Feb 24 21:33 dep-graph.bin
+-rw-r--r-- 1 harsha users 169K Feb 24 21:35 dep-graph.part.bin
+-rw-r--r-- 1 harsha users 102K Feb 24 21:33 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:33 work-products.bin
+
+./target/debug/incremental/grep-1ph6e1kia8lrp/s-gijc79vr27-lct64c-atuj17xwdjfv:
+total 480K
+-rw-r--r-- 1 harsha users 372K Feb 24 21:36 dep-graph.bin
+-rw-r--r-- 1 harsha users 103K Feb 24 21:36 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:36 work-products.bin
+
+./target/debug/incremental/grep-1sn9oq68c0vku:
+total 0
+drwxr-xr-x 1 harsha users 2.1K Feb 24 21:36 s-gijc7ffm3i-bxspyl-2wis9nm4x8f9b
+-rw------- 1 harsha users    0 Feb 24 21:36 s-gijc7ffm3i-bxspyl.lock
+
+./target/debug/incremental/grep-1sn9oq68c0vku/s-gijc7ffm3i-bxspyl-2wis9nm4x8f9b:
+total 2.4M
+-rw-r--r-- 1 harsha users  46K Feb 24 21:27 14l0907tgn1xl61m.o
+-rw-r--r-- 1 harsha users  26K Feb 24 21:22 19xnhdnrbopney8c.o
+-rw-r--r-- 1 harsha users 3.2K Feb 24 21:27 1euwgnt8letkkn69.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:27 1grsorv974pkyz3s.o
+-rw-r--r-- 1 harsha users 8.8K Feb 24 21:27 1j3kfiy1xkz3drld.o
+-rw-r--r-- 1 harsha users  24K Feb 24 21:28 1mukqtxjo7moczot.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 21:27 1qet1kwc76gf0nfp.o
+-rw-r--r-- 1 harsha users 5.6K Feb 24 21:22 1w2fem8onaex3qn7.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:27 21ocfwwilxiihknb.o
+-rw-r--r-- 1 harsha users 4.2K Feb 24 21:22 24j4ufqnknw2ay5u.o
+-rw-r--r-- 1 harsha users 5.4K Feb 24 21:27 2706w6fna7xrcgbm.o
+-rw-r--r-- 1 harsha users  54K Feb 24 21:28 271xy31zm5sle1es.o
+-rw-r--r-- 1 harsha users 6.0K Feb 24 21:27 27hxsmmp3qai7q40.o
+-rw-r--r-- 1 harsha users  42K Feb 24 21:27 281a1k2e2daij1dm.o
+-rw-r--r-- 1 harsha users 5.7K Feb 24 21:27 299bzshtu4kj4p8a.o
+-rw-r--r-- 1 harsha users 2.8K Feb 24 21:22 2e58j5ej94h2qsa9.o
+-rw-r--r-- 1 harsha users  14K Feb 24 21:22 2eqfz4la7tsf5n4q.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:22 2fv30sqfou4e12u9.o
+-rw-r--r-- 1 harsha users  18K Feb 24 21:27 2gzt0myky0bb3i85.o
+-rw-r--r-- 1 harsha users  33K Feb 24 21:36 2kmy1grc11zxpgy3.o
+-rw-r--r-- 1 harsha users 5.1K Feb 24 21:27 2mog2vns2oxjs7o4.o
+-rw-r--r-- 1 harsha users 4.1K Feb 24 21:27 2rie6gau5amzfe1b.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:22 2s148m4dfu4qkegy.o
+-rw-r--r-- 1 harsha users 6.8K Feb 24 21:22 2ttvig62s1xf9stx.o
+-rw-r--r-- 1 harsha users  19K Feb 24 21:27 2xh83r2ummezsse8.o
+-rw-r--r-- 1 harsha users 6.5K Feb 24 21:28 38icxj81yxgr5u0h.o
+-rw-r--r-- 1 harsha users 9.2K Feb 24 21:27 3dkqvanmp9wq1vzn.o
+-rw-r--r-- 1 harsha users  28K Feb 24 21:28 3eyx98y80xo94va1.o
+-rw-r--r-- 1 harsha users  34K Feb 24 21:36 3j3pqpahmw0h86bc.o
+-rw-r--r-- 1 harsha users 9.0K Feb 24 21:22 3mexfuygkxl0qpdx.o
+-rw-r--r-- 1 harsha users 9.3K Feb 24 21:27 3mkv0vthb1ckwef6.o
+-rw-r--r-- 1 harsha users  11K Feb 24 21:22 3n00t7fgv1qdcrbr.o
+-rw-r--r-- 1 harsha users 8.4K Feb 24 21:28 3tlvm9hx7ax01ss2.o
+-rw-r--r-- 1 harsha users  30K Feb 24 21:27 3u6oejgfqa6hjh80.o
+-rw-r--r-- 1 harsha users 4.4K Feb 24 21:36 3uifct0x75ta9cks.o
+-rw-r--r-- 1 harsha users 9.3K Feb 24 21:28 4699h2z26m6dxizv.o
+-rw-r--r-- 1 harsha users 8.3K Feb 24 21:27 48ntc3ng3k9z8orj.o
+-rw-r--r-- 1 harsha users 7.4K Feb 24 21:27 4954039skzao3bl0.o
+-rw-r--r-- 1 harsha users 5.5K Feb 24 21:27 4ceers4u99qroydl.o
+-rw-r--r-- 1 harsha users 6.2K Feb 24 21:27 4f1djg9bm7hjaw31.o
+-rw-r--r-- 1 harsha users 5.4K Feb 24 21:28 4p98aidpzibbmmf8.o
+-rw-r--r-- 1 harsha users 8.8K Feb 24 21:27 4pa09yhpft0adlw1.o
+-rw-r--r-- 1 harsha users 5.5K Feb 24 21:36 4reacw7a4f32uegt.o
+-rw-r--r-- 1 harsha users 7.0K Feb 24 21:36 4spfcpbia30wkbw9.o
+-rw-r--r-- 1 harsha users  60K Feb 24 21:36 53ic6lgy6cyj75h0.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:27 55n0rdcsy9uzjx7u.o
+-rw-r--r-- 1 harsha users  11K Feb 24 21:28 57080tn41i4q37pj.o
+-rw-r--r-- 1 harsha users  16K Feb 24 21:27 5ab7utlibmj6k1qr.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:33 cbzh99mhl1gwyl9.o
+-rw-r--r-- 1 harsha users 1.1M Feb 24 21:36 dep-graph.bin
+-rw-r--r-- 1 harsha users  26K Feb 24 21:22 f803emnwvm1u88k.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:25 ipkfzoj3o8m35yk.o
+-rw-r--r-- 1 harsha users  16K Feb 24 21:27 j69j3y12oq6u5yx.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:33 m6tseh02mk0z9lv.o
+-rw-r--r-- 1 harsha users 374K Feb 24 21:36 query-cache.bin
+-rw-r--r-- 1 harsha users 4.7K Feb 24 21:27 su0d8k27koceroz.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:28 v118cj3yy4tmizo.o
+-rw-r--r-- 1 harsha users 3.2K Feb 24 21:36 work-products.bin
+
+./target/debug/incremental/grep-20a8rlorknket:
+total 0
+drwxr-xr-x 1 harsha users 90 Feb 24 21:18 s-gijbpdy4hu-10d3mu5-1xer305k0gg2b
+-rw------- 1 harsha users  0 Feb 24 21:18 s-gijbpdy4hu-10d3mu5.lock
+
+./target/debug/incremental/grep-20a8rlorknket/s-gijbpdy4hu-10d3mu5-1xer305k0gg2b:
+total 316K
+-rw-r--r-- 1 harsha users 219K Feb 24 21:18 dep-graph.bin
+-rw-r--r-- 1 harsha users  89K Feb 24 21:18 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:18 work-products.bin
+
+./target/debug/incremental/grep-21cbcw2sdw3r6:
+total 0
+drwxr-xr-x 1 harsha users 90 Feb 24 21:18 s-gijbpdy4hw-1ay6i6r-20fmtul6uila9
+-rw------- 1 harsha users  0 Feb 24 21:18 s-gijbpdy4hw-1ay6i6r.lock
+
+./target/debug/incremental/grep-21cbcw2sdw3r6/s-gijbpdy4hw-1ay6i6r-20fmtul6uila9:
+total 332K
+-rw-r--r-- 1 harsha users 231K Feb 24 21:18 dep-graph.bin
+-rw-r--r-- 1 harsha users  93K Feb 24 21:18 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:18 work-products.bin
+
+./target/debug/incremental/grep-2ieixnu2epj1d:
+total 0
+drwxr-xr-x 1 harsha users 90 Feb 24 21:37 s-gijc8gior3-ykyabx-3qlqryk1v1yan
+-rw------- 1 harsha users  0 Feb 24 21:37 s-gijc8gior3-ykyabx.lock
+
+./target/debug/incremental/grep-2ieixnu2epj1d/s-gijc8gior3-ykyabx-3qlqryk1v1yan:
+total 104K
+-rw-r--r-- 1 harsha users 82K Feb 24 21:37 dep-graph.bin
+-rw-r--r-- 1 harsha users 13K Feb 24 21:37 query-cache.bin
+-rw-r--r-- 1 harsha users  37 Feb 24 21:37 work-products.bin
+
+./target/debug/incremental/grep-2itevzhqo4210:
+total 0
+drwxr-xr-x 1 harsha users 2.2K Feb 24 21:36 s-gijc7ffm3h-1qzzf27-2vc1nvt186afg
+-rw------- 1 harsha users    0 Feb 24 21:36 s-gijc7ffm3h-1qzzf27.lock
+
+./target/debug/incremental/grep-2itevzhqo4210/s-gijc7ffm3h-1qzzf27-2vc1nvt186afg:
+total 2.5M
+-rw-r--r-- 1 harsha users  12K Feb 24 21:27 10lyj21kg4cell9m.o
+-rw-r--r-- 1 harsha users 5.5K Feb 24 21:27 10ysvwclxx3rg8q7.o
+-rw-r--r-- 1 harsha users 6.2K Feb 24 21:27 11aetzn106s7uc6k.o
+-rw-r--r-- 1 harsha users 8.9K Feb 24 21:25 13v7x8t0pkaloksl.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:25 19j010ymvk0rv711.o
+-rw-r--r-- 1 harsha users  18K Feb 24 21:27 1arh7can5n5mhfzb.o
+-rw-r--r-- 1 harsha users  11K Feb 24 21:25 1ckr2v0x5vrsbk5j.o
+-rw-r--r-- 1 harsha users  40K Feb 24 21:36 1j9izcr9wbpdxf8r.o
+-rw-r--r-- 1 harsha users  20K Feb 24 21:27 1pjzzmutdgdzipaf.o
+-rw-r--r-- 1 harsha users 5.7K Feb 24 21:27 1rrcy7pr0qweqkxr.o
+-rw-r--r-- 1 harsha users  18K Feb 24 21:25 1ychg0luh4vawd5p.o
+-rw-r--r-- 1 harsha users 8.5K Feb 24 21:27 20fonw81u0cbar26.o
+-rw-r--r-- 1 harsha users 7.2K Feb 24 21:36 2248051yt9hu71cd.o
+-rw-r--r-- 1 harsha users  20K Feb 24 21:27 23q2l6tu9pca0y23.o
+-rw-r--r-- 1 harsha users 5.7K Feb 24 21:27 2gvp469rv911aubc.o
+-rw-r--r-- 1 harsha users  19K Feb 24 21:25 2i9dvj1nk1mgomnp.o
+-rw-r--r-- 1 harsha users 9.9K Feb 24 21:25 2kwstzvfsrv4z4jr.o
+-rw-r--r-- 1 harsha users 6.3K Feb 24 21:25 2l7ad5kw3c09imwz.o
+-rw-r--r-- 1 harsha users 7.6K Feb 24 21:27 2sri2zagk2n4ze63.o
+-rw-r--r-- 1 harsha users  15K Feb 24 21:25 2tlewhu39irsc2xe.o
+-rw-r--r-- 1 harsha users  30K Feb 24 21:27 2tml6t16x0c1yqpx.o
+-rw-r--r-- 1 harsha users 9.9K Feb 24 21:25 2tqv3fln5vqevrj5.o
+-rw-r--r-- 1 harsha users 8.2K Feb 24 21:33 2wofgrirqbuxhy3u.o
+-rw-r--r-- 1 harsha users  15K Feb 24 21:25 2y647d8o50xs2f6c.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:27 3402zlj70qph2gfl.o
+-rw-r--r-- 1 harsha users  32K Feb 24 21:33 39uvc1f958gbp9fn.o
+-rw-r--r-- 1 harsha users 8.0K Feb 24 21:25 3e6agyszazz7weeb.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 21:25 3en99taz4w04v511.o
+-rw-r--r-- 1 harsha users 5.4K Feb 24 21:25 3i9j7qut84dusiyh.o
+-rw-r--r-- 1 harsha users 9.5K Feb 24 21:27 3l0d0azfn2xy535c.o
+-rw-r--r-- 1 harsha users 8.2K Feb 24 21:27 3p74c7225thjl9lu.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:25 3vut5o1tbgo5flar.o
+-rw-r--r-- 1 harsha users 4.4K Feb 24 21:25 438cjt3kqh7cizmj.o
+-rw-r--r-- 1 harsha users 9.6K Feb 24 21:25 43ryyaq3nvxn4iye.o
+-rw-r--r-- 1 harsha users  47K Feb 24 21:27 45y6hsdnlvlixnmy.o
+-rw-r--r-- 1 harsha users 4.9K Feb 24 21:27 4dtl253g0q9bjwxr.o
+-rw-r--r-- 1 harsha users 9.8K Feb 24 21:25 4fp6ktsp8du4xowi.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:27 4h8quqn1zkdjmyy8.o
+-rw-r--r-- 1 harsha users 8.9K Feb 24 21:27 4lydvgoouinvdjgk.o
+-rw-r--r-- 1 harsha users  61K Feb 24 21:27 4xxgbbhm1773n2kr.o
+-rw-r--r-- 1 harsha users 4.2K Feb 24 21:25 4ykxu2vx08rzcgau.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:25 4z9kgrymn7eaj4kd.o
+-rw-r--r-- 1 harsha users 5.7K Feb 24 21:27 57f44xq49ib2s7a2.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:27 57zvy5lqelyped0e.o
+-rw-r--r-- 1 harsha users  13K Feb 24 21:33 5eky6w437epsdk94.o
+-rw-r--r-- 1 harsha users  42K Feb 24 21:27 5es0worc2xwb6hq.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:36 8kveky1yh790w52.o
+-rw-r--r-- 1 harsha users 9.0K Feb 24 21:25 9qm59tiy3gmqv16.o
+-rw-r--r-- 1 harsha users 7.0K Feb 24 21:25 a0p0qei5n4hoyjk.o
+-rw-r--r-- 1 harsha users 3.0K Feb 24 21:25 au2izpj6ifgxh4e.o
+-rw-r--r-- 1 harsha users  38K Feb 24 21:27 cr9yy6r5s80xi57.o
+-rw-r--r-- 1 harsha users  16K Feb 24 21:25 d2r6seznzsjsvf.o
+-rw-r--r-- 1 harsha users 1.2M Feb 24 21:36 dep-graph.bin
+-rw-r--r-- 1 harsha users  13K Feb 24 21:36 edp8akd6onwivlv.o
+-rw-r--r-- 1 harsha users 3.4K Feb 24 21:27 f8wg9525lgr1w97.o
+-rw-r--r-- 1 harsha users 4.0K Feb 24 21:25 feizwmlc0q2zyux.o
+-rw-r--r-- 1 harsha users 5.3K Feb 24 21:27 ijjgz3flzefrzc0.o
+-rw-r--r-- 1 harsha users  18K Feb 24 21:27 jnu75xt8kilwogb.o
+-rw-r--r-- 1 harsha users 5.4K Feb 24 21:25 n9a4rubes9cndzs.o
+-rw-r--r-- 1 harsha users 6.4K Feb 24 21:27 no290fwjd4t6ppd.o
+-rw-r--r-- 1 harsha users 3.8K Feb 24 21:27 omvus9aj3am383m.o
+-rw-r--r-- 1 harsha users 371K Feb 24 21:36 query-cache.bin
+-rw-r--r-- 1 harsha users 3.5K Feb 24 21:36 work-products.bin
+
+./target/debug/incremental/grep-2qtmheesdot8f:
+total 0
+drwxr-xr-x 1 harsha users 126 Feb 24 21:35 s-gijc75gyf7-gly8bo-working
+drwxr-xr-x 1 harsha users  90 Feb 24 21:36 s-gijc79vs8p-13pe3yp-2mb0fva2l1nzy
+-rw------- 1 harsha users   0 Feb 24 21:35 s-gijc75gyf7-gly8bo.lock
+-rw------- 1 harsha users   0 Feb 24 21:36 s-gijc79vs8p-13pe3yp.lock
+
+./target/debug/incremental/grep-2qtmheesdot8f/s-gijc75gyf7-gly8bo-working:
+total 504K
+-rw-r--r-- 1 harsha users 278K Feb 24 21:33 dep-graph.bin
+-rw-r--r-- 1 harsha users 125K Feb 24 21:35 dep-graph.part.bin
+-rw-r--r-- 1 harsha users  90K Feb 24 21:33 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:33 work-products.bin
+
+./target/debug/incremental/grep-2qtmheesdot8f/s-gijc79vs8p-13pe3yp-2mb0fva2l1nzy:
+total 388K
+-rw-r--r-- 1 harsha users 291K Feb 24 21:36 dep-graph.bin
+-rw-r--r-- 1 harsha users  91K Feb 24 21:36 query-cache.bin
+-rw-r--r-- 1 harsha users   37 Feb 24 21:36 work-products.bin
+
+./target/debug/incremental/grep-3kzwfotsry6x5:
+total 0
+drwxr-xr-x 1 harsha users 266 Feb 24 21:36 s-gijc7fip07-15gchyd-3da21liwy05ak
+-rw------- 1 harsha users   0 Feb 24 21:36 s-gijc7fip07-15gchyd.lock
+
+./target/debug/incremental/grep-3kzwfotsry6x5/s-gijc7fip07-15gchyd-3da21liwy05ak:
+total 188K
+-rw-r--r-- 1 harsha users 8.0K Feb 24 21:25 1lw2uszux6dradg.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 21:25 1u6ish70fwd1bx6t.o
+-rw-r--r-- 1 harsha users 4.2K Feb 24 21:25 43myl5w0v1hxbxp6.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 21:25 55prztw0to1c0fap.o
+-rw-r--r-- 1 harsha users 135K Feb 24 21:36 dep-graph.bin
+-rw-r--r-- 1 harsha users  16K Feb 24 21:36 query-cache.bin
+-rw-r--r-- 1 harsha users  323 Feb 24 21:36 work-products.bin
+-rw-r--r-- 1 harsha users 7.5K Feb 24 21:25 zu12oqx5i971mh7.o
+
+./target/debug/incremental/grep-x2tdx1trsne9:
+total 0
+drwxr-xr-x 1 harsha users 840 Feb 24 21:40 s-gijcbujhki-1pizi8-2fkmfjlbby0rf
+-rw------- 1 harsha users   0 Feb 24 21:40 s-gijcbujhki-1pizi8.lock
+
+./target/debug/incremental/grep-x2tdx1trsne9/s-gijcbujhki-1pizi8-2fkmfjlbby0rf:
+total 996K
+-rw-r--r-- 1 harsha users 6.2K Feb 24 21:40 19i9qr1py89lbdpc.o
+-rw-r--r-- 1 harsha users 6.9K Feb 24 21:40 19wkacqsmipwi08v.o
+-rw-r--r-- 1 harsha users 9.4K Feb 24 21:22 1c8ab1nea09mla58.o
+-rw-r--r-- 1 harsha users 6.7K Feb 24 21:22 1przibf8o5g62dgu.o
+-rw-r--r-- 1 harsha users  17K Feb 24 21:28 25o2f99xcnejkwkd.o
+-rw-r--r-- 1 harsha users 9.9K Feb 24 21:22 31j80r3q40wfc1k6.o
+-rw-r--r-- 1 harsha users 6.9K Feb 24 21:22 37vtfah9pv1zkcbd.o
+-rw-r--r-- 1 harsha users  28K Feb 24 21:28 38r9lg2jyrtl0w7f.o
+-rw-r--r-- 1 harsha users  35K Feb 24 21:28 3994z0sp2f4vzmpm.o
+-rw-r--r-- 1 harsha users  52K Feb 24 21:36 3ls0f0d6vzwrmwin.o
+-rw-r--r-- 1 harsha users 9.5K Feb 24 21:28 3pco31s6dso62zxe.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:22 4gu7623j7h2fm0lh.o
+-rw-r--r-- 1 harsha users 3.6K Feb 24 21:22 4hlr0pjiaz51mlxe.o
+-rw-r--r-- 1 harsha users  12K Feb 24 21:40 4lm85hl7jkere27z.o
+-rw-r--r-- 1 harsha users 6.5K Feb 24 21:22 4nb1aqkmgq813ur8.o
+-rw-r--r-- 1 harsha users 4.2K Feb 24 21:22 4v8yk8kn0vjwzoes.o
+-rw-r--r-- 1 harsha users 4.9K Feb 24 21:22 5ceja153e7wtubad.o
+-rw-r--r-- 1 harsha users  53K Feb 24 21:28 5ehmxpncimfulb0a.o
+-rw-r--r-- 1 harsha users 8.0K Feb 24 21:22 crw6u1u88zz2exf.o
+-rw-r--r-- 1 harsha users 500K Feb 24 21:40 dep-graph.bin
+-rw-r--r-- 1 harsha users 7.9K Feb 24 21:28 e6knbt6cmgilv3v.o
+-rw-r--r-- 1 harsha users  16K Feb 24 21:22 iz8dfke1rb0x8kb.o
+-rw-r--r-- 1 harsha users 147K Feb 24 21:40 query-cache.bin
+-rw-r--r-- 1 harsha users 1.3K Feb 24 21:40 work-products.bin
+
+./target/release:
+total 4.1M
+drwxr-xr-x 1 harsha users    0 Feb 24 21:40 build
+drwxr-xr-x 1 harsha users  252 Feb 24 21:40 deps
+drwxr-xr-x 1 harsha users    0 Feb 24 21:40 examples
+drwxr-xr-x 1 harsha users    0 Feb 24 21:40 incremental
+-rwxr-xr-x 2 harsha users 4.1M Feb 24 21:40 grep
+-rw-r--r-- 1 harsha users  161 Feb 24 21:40 grep.d
+-rw-r--r-- 1 harsha users  118 Feb 24 21:40 libgrep.d
+-rw-r--r-- 2 harsha users  48K Feb 24 21:40 libgrep.rlib
+
+./target/release/build:
+total 0
+
+./target/release/deps:
+total 4.1M
+-rw-r--r-- 1 harsha users  310 Feb 24 21:40 grep-9d534f442bf75f47.d
+-rwxr-xr-x 2 harsha users 4.1M Feb 24 21:40 grep-deb22c5f85d19337
+-rw-r--r-- 1 harsha users  205 Feb 24 21:40 grep-deb22c5f85d19337.d
+-rw-r--r-- 2 harsha users  48K Feb 24 21:40 libgrep-9d534f442bf75f47.rlib
+-rw-r--r-- 1 harsha users 6.2K Feb 24 21:40 libgrep-9d534f442bf75f47.rmeta
+
+./target/release/examples:
+total 0
+
+./target/release/incremental:
+total 0
